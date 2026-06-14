@@ -1,0 +1,1345 @@
+{
+  "top_matchs": [
+    {
+      "profil_a": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 90,
+      "score_h": 88,
+      "score_f": 92,
+      "raison": "Miriam partage avec Yossi les mêmes racines mizrahi, la même foi ancrée, la même expérience de la perte et du deuil traversé avec dignité, et cette capacité commune à trouver la paix dans la profondeur plutôt que dans le bruit — une résonance rare et profonde.",
+      "mutual": true
+    },
+    {
+      "profil_a": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "score_h": 82,
+      "score_f": 78,
+      "raison": "Ashkénaze, laïque, ancrée à Tel Aviv, cherchant une vraie vie commune avec profondeur et légèreté — un alignement fort sur les valeurs, le mode de vie et les aspirations, malgré l'écart d'âge et sa question ouverte sur la parentalité.",
+      "mutual": true
+    },
+    {
+      "profil_a": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "score_h": 82,
+      "score_f": 78,
+      "raison": "Miriam partage avec Ron la même profondeur séfarade-mizrahi, la foi, le foyer chaleureux du vendredi soir, une vie marquée par les épreuves portées avec dignité, et cette recherche d'un compagnon loyal et vrai plutôt que d'un idéal — une résonance humaine et culturelle rare.",
+      "mutual": true
+    },
+    {
+      "profil_a": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 7,
+        "nom": "Fatima",
+        "nom_famille": "Hamdan",
+        "age": "39",
+        "sexe": "Féminin",
+        "telephone": "+972 50-934-1152",
+        "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 66,
+      "score_h": 62,
+      "score_f": 71,
+      "raison": "Fatima incarne la même solidité discrète et le même sens du devoir que Yossi, et son veuvage lui confère une maturité émotionnelle compatible avec lui, mais la distance culturelle et religieuse représente un obstacle structurel difficile à ignorer.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 65,
+      "score_h": 58,
+      "score_f": 72,
+      "raison": "Profil intellectuellement stimulant, valeurs compatibles et belle autonomie, mais 28 ans et un chapitre de vie encore très ouvert créent un décalage réel avec un homme de 42 ans déjà père et en quête de stabilité partagée.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 7,
+        "nom": "Fatima",
+        "nom_famille": "Hamdan",
+        "age": "39",
+        "sexe": "Féminin",
+        "telephone": "+972 50-934-1152",
+        "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 65,
+      "score_h": 52,
+      "score_f": 78,
+      "raison": "Fatima incarne une force tranquille et une vie déjà bien construite qui font écho à Ron, mais la distance culturelle et religieuse, ainsi que l'absence de proximité identitaire, rendraient la construction commune difficile malgré une belle compatibilité de valeurs.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 10,
+        "nom": "Rivka",
+        "nom_famille": "Azoulay",
+        "age": "44",
+        "sexe": "Féminin",
+        "telephone": "+972 50-562-8847",
+        "resume_ia": "Elle s'appelle Noa, et dès qu'on la rencontre, on sent qu'il y a quelque chose de profond derrière son sourire. Pharmacienne accomplie, mère de quatre enfants, elle tient debout depuis le 7 octobre avec une énergie qu'elle ne s'explique plus vraiment elle-même. Son mari, réserviste, est souvent loin — trop loin, trop longtemps — et c'est elle qui fait tourner la maison, les devoirs, les repas du shabbat, les nuits sans sommeil. Elle est séfarade dans l'âme, attachée à ses traditions avec une chaleur sincère, celle qui sent le cumin et la brioche dorée du vendredi soir. Noa ne cherche pas quelqu'un de parfait. Elle cherche quelqu'un de vrai, un homme qui sait ce que ça veut dire d'être là — vraiment là — quand tout pèse. Quelqu'un qui n'a pas peur de la complexité d'une vie déjà bien remplie, et qui y verrait une richesse plutôt qu'un fardeau. Elle a beaucoup donné, beaucoup porté. Ce soir, elle s'autorise à chercher quelqu'un à qui elle pourrait, enfin, poser un peu du poids.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 60,
+      "score_h": 31,
+      "score_f": 88,
+      "raison": "Rivka est mariée et son mari est encore présent dans sa vie, ce qui rend toute relation sérieuse avec Ron impossible à construire sur des bases saines, malgré des affinités séfarades et une sensibilité partagée.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 2,
+        "nom": "Youssef",
+        "nom_famille": "Mansour",
+        "age": "31",
+        "sexe": "Masculin",
+        "telephone": "+972 50-729-4417",
+        "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 56,
+      "score_h": 54,
+      "score_f": 58,
+      "raison": "Tali incarne exactement le type de rencontre que Youssef recherche — quelqu'un qui se tient debout, qui débat, qui avance — mais l'écart culturel et laïque pourrait buter sur ce que la famille de Youssef attend, et ce qu'il veut construire dans la durée.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 2,
+        "nom": "Youssef",
+        "nom_famille": "Mansour",
+        "age": "31",
+        "sexe": "Masculin",
+        "telephone": "+972 50-729-4417",
+        "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 7,
+        "nom": "Fatima",
+        "nom_famille": "Hamdan",
+        "age": "39",
+        "sexe": "Féminin",
+        "telephone": "+972 50-934-1152",
+        "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 55,
+      "score_h": 72,
+      "score_f": 38,
+      "raison": "Arabe musulmane, mère et figure communautaire engagée, Fatima partage avec Youssef les mêmes racines culturelles, la même valorisation des liens familiaux profonds et la même conviction que s'engager vraiment a un sens — même si la différence religieuse et les enfants déjà présents appelleraient une conversation honnête.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 10,
+        "nom": "Rivka",
+        "nom_famille": "Azoulay",
+        "age": "44",
+        "sexe": "Féminin",
+        "telephone": "+972 50-562-8847",
+        "resume_ia": "Elle s'appelle Noa, et dès qu'on la rencontre, on sent qu'il y a quelque chose de profond derrière son sourire. Pharmacienne accomplie, mère de quatre enfants, elle tient debout depuis le 7 octobre avec une énergie qu'elle ne s'explique plus vraiment elle-même. Son mari, réserviste, est souvent loin — trop loin, trop longtemps — et c'est elle qui fait tourner la maison, les devoirs, les repas du shabbat, les nuits sans sommeil. Elle est séfarade dans l'âme, attachée à ses traditions avec une chaleur sincère, celle qui sent le cumin et la brioche dorée du vendredi soir. Noa ne cherche pas quelqu'un de parfait. Elle cherche quelqu'un de vrai, un homme qui sait ce que ça veut dire d'être là — vraiment là — quand tout pèse. Quelqu'un qui n'a pas peur de la complexité d'une vie déjà bien remplie, et qui y verrait une richesse plutôt qu'un fardeau. Elle a beaucoup donné, beaucoup porté. Ce soir, elle s'autorise à chercher quelqu'un à qui elle pourrait, enfin, poser un peu du poids.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 51,
+      "score_h": 28,
+      "score_f": 74,
+      "raison": "Malgré la proximité culturelle séfarade et la chaleur sincère de Rivka, le profil révèle une femme encore mariée dont le mari est réserviste — une situation incompatible avec ce que Yossi cherche : une présence entière et disponible.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 4,
+        "nom": "Nathaniel",
+        "nom_famille": "Friedman",
+        "age": "26",
+        "sexe": "Masculin",
+        "telephone": "+972 52-016-7734",
+        "resume_ia": "Ariel a grandi dans un monde où chaque question avait déjà sa réponse, mais lui n'a jamais tout à fait réussi à s'en contenter. Étudiant en yeshiva depuis des années, il porte sa kippa avec autant de fidélité que de questionnement intérieur, cherchant encore comment faire coexister la foi de ses pères et les doutes qui lui appartiennent en propre. En secret, il dessine des plans, résout des équations et rêve d'un avenir d'ingénieur, convaincu que construire des ponts, c'est aussi une façon de relier les mondes. Derrière sa timidité un peu maladroite se cache une intelligence vive et une sincérité qui désarme ceux qui prennent le temps de l'écouter vraiment. Il traverse en ce moment l'une des périodes les plus exigeantes de sa vie, celle où l'on doit décider qui l'on est vraiment, loin des attentes et des rôles assignés. Il cherche une femme qui n'a pas peur des silences pensifs ni des conversations qui durent jusqu'à l'aube, quelqu'un de patient, de chaleureux, capable d'accueillir un homme en chemin sans vouloir le presser d'arriver. Avec Ariel, on ne signe pas pour une vie simple, mais certainement pour une vie profonde.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 45,
+      "score_h": 72,
+      "score_f": 18,
+      "raison": "Tali, 28 ans, ashkénaze et ancrée dans ses convictions, partage avec Nathaniel une même énergie de construction personnelle et une ouverture aux grandes conversations sans pression d'arriver, ce qui correspond précisément à ce qu'il cherche — même si son côté laïque affirmé et son indépendance très installée pourraient buter sur ses questionnements religieux intérieurs.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 40,
+      "score_h": 28,
+      "score_f": 52,
+      "raison": "L'écart de treize ans, la quête active d'enfants de Maya et un univers ashkénaze-laïque très urbain créent trop de décalages avec les priorités et le monde de vie de Ron pour envisager une complicité durable.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 7,
+        "nom": "Fatima",
+        "nom_famille": "Hamdan",
+        "age": "39",
+        "sexe": "Féminin",
+        "telephone": "+972 50-934-1152",
+        "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 39,
+      "score_h": 34,
+      "score_f": 44,
+      "raison": "Femme de caractère et de valeurs profondes, mais la distance culturelle, religieuse et identitaire entre eux est substantielle, et le contexte géopolitique que David porte en lui rend cette rencontre structurellement complexe.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 2,
+        "nom": "Youssef",
+        "nom_famille": "Mansour",
+        "age": "31",
+        "sexe": "Masculin",
+        "telephone": "+972 50-729-4417",
+        "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 36,
+      "score_h": 41,
+      "score_f": 31,
+      "raison": "Maya partage la profondeur de conversation et l'appétit pour une vraie vie commune que Youssef appelle de ses vœux, mais l'univers Tel Aviv-laïque-ashkénaze et la pression biologique qu'elle porte créent une distance de contexte difficile à combler rapidement.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 4,
+        "nom": "Nathaniel",
+        "nom_famille": "Friedman",
+        "age": "26",
+        "sexe": "Masculin",
+        "telephone": "+972 52-016-7734",
+        "resume_ia": "Ariel a grandi dans un monde où chaque question avait déjà sa réponse, mais lui n'a jamais tout à fait réussi à s'en contenter. Étudiant en yeshiva depuis des années, il porte sa kippa avec autant de fidélité que de questionnement intérieur, cherchant encore comment faire coexister la foi de ses pères et les doutes qui lui appartiennent en propre. En secret, il dessine des plans, résout des équations et rêve d'un avenir d'ingénieur, convaincu que construire des ponts, c'est aussi une façon de relier les mondes. Derrière sa timidité un peu maladroite se cache une intelligence vive et une sincérité qui désarme ceux qui prennent le temps de l'écouter vraiment. Il traverse en ce moment l'une des périodes les plus exigeantes de sa vie, celle où l'on doit décider qui l'on est vraiment, loin des attentes et des rôles assignés. Il cherche une femme qui n'a pas peur des silences pensifs ni des conversations qui durent jusqu'à l'aube, quelqu'un de patient, de chaleureux, capable d'accueillir un homme en chemin sans vouloir le presser d'arriver. Avec Ariel, on ne signe pas pour une vie simple, mais certainement pour une vie profonde.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 32,
+      "score_h": 51,
+      "score_f": 12,
+      "raison": "Maya/Shira, directrice artistique éprise de profondeur et de vraie vie commune, offre la chaleur et la maturité qu'il apprécie, mais ses 34 ans, son urgence biologique assumée et son attente d'un homme 'ancré' risquent de peser lourd face à un jeune homme encore en plein questionnement identitaire.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 10,
+        "nom": "Rivka",
+        "nom_famille": "Azoulay",
+        "age": "44",
+        "sexe": "Féminin",
+        "telephone": "+972 50-562-8847",
+        "resume_ia": "Elle s'appelle Noa, et dès qu'on la rencontre, on sent qu'il y a quelque chose de profond derrière son sourire. Pharmacienne accomplie, mère de quatre enfants, elle tient debout depuis le 7 octobre avec une énergie qu'elle ne s'explique plus vraiment elle-même. Son mari, réserviste, est souvent loin — trop loin, trop longtemps — et c'est elle qui fait tourner la maison, les devoirs, les repas du shabbat, les nuits sans sommeil. Elle est séfarade dans l'âme, attachée à ses traditions avec une chaleur sincère, celle qui sent le cumin et la brioche dorée du vendredi soir. Noa ne cherche pas quelqu'un de parfait. Elle cherche quelqu'un de vrai, un homme qui sait ce que ça veut dire d'être là — vraiment là — quand tout pèse. Quelqu'un qui n'a pas peur de la complexité d'une vie déjà bien remplie, et qui y verrait une richesse plutôt qu'un fardeau. Elle a beaucoup donné, beaucoup porté. Ce soir, elle s'autorise à chercher quelqu'un à qui elle pourrait, enfin, poser un peu du poids.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 30,
+      "score_h": 9,
+      "score_f": 52,
+      "raison": "Le profil est celui d'une femme mariée gérant une crise familiale intense — indépendamment des incohérences de la fiche, cette situation ne correspond en rien à ce que David recherche.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 30,
+      "score_h": 22,
+      "score_f": 38,
+      "raison": "L'écart de vingt-quatre ans, le désir d'enfants non négociable de Shira et son énergie de construction d'un premier chapitre contrastent trop profondément avec l'homme apaisé et épuisé qu'est Yossi, qui cherche une compagne au même stade de vie.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 28,
+      "score_h": 18,
+      "score_f": 38,
+      "raison": "Personnalité d'une richesse humaine rare, mais l'écart de génération de vingt ans, l'ancrage mizrahi pratiquant et un chapitre de vie centré sur les petits-enfants et le deuil national l'éloignent trop du quotidien que David cherche à construire.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 28,
+      "score_h": 18,
+      "score_f": 38,
+      "raison": "Tali, à 28 ans, en est à un chapitre de vie trop éloigné de celui de Ron — elle construit encore son indépendance et n'aspire pas à l'enracinement familial et aux vraies charges partagées qu'il recherche chez une complice.",
+      "mutual": false
+    },
+    {
+      "profil_a": {
+        "id": 4,
+        "nom": "Nathaniel",
+        "nom_famille": "Friedman",
+        "age": "26",
+        "sexe": "Masculin",
+        "telephone": "+972 52-016-7734",
+        "resume_ia": "Ariel a grandi dans un monde où chaque question avait déjà sa réponse, mais lui n'a jamais tout à fait réussi à s'en contenter. Étudiant en yeshiva depuis des années, il porte sa kippa avec autant de fidélité que de questionnement intérieur, cherchant encore comment faire coexister la foi de ses pères et les doutes qui lui appartiennent en propre. En secret, il dessine des plans, résout des équations et rêve d'un avenir d'ingénieur, convaincu que construire des ponts, c'est aussi une façon de relier les mondes. Derrière sa timidité un peu maladroite se cache une intelligence vive et une sincérité qui désarme ceux qui prennent le temps de l'écouter vraiment. Il traverse en ce moment l'une des périodes les plus exigeantes de sa vie, celle où l'on doit décider qui l'on est vraiment, loin des attentes et des rôles assignés. Il cherche une femme qui n'a pas peur des silences pensifs ni des conversations qui durent jusqu'à l'aube, quelqu'un de patient, de chaleureux, capable d'accueillir un homme en chemin sans vouloir le presser d'arriver. Avec Ariel, on ne signe pas pour une vie simple, mais certainement pour une vie profonde.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 7,
+        "nom": "Fatima",
+        "nom_famille": "Hamdan",
+        "age": "39",
+        "sexe": "Féminin",
+        "telephone": "+972 50-934-1152",
+        "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 23,
+      "score_h": 28,
+      "score_f": 18,
+      "raison": "Fatima est d'une solidité humaine remarquable, mais la distance culturelle et religieuse avec un étudiant en yeshiva, combinée à la réalité d'une famille déjà constituée et d'un engagement communautaire très fort, rend une compatibilité de fond peu probable malgré une sincérité partagée.",
+      "mutual": false
+    }
+  ],
+  "best_per_person": [
+    {
+      "personne": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 90,
+      "raison": "Miriam partage avec Yossi les mêmes racines mizrahi, la même foi ancrée, la même expérience de la perte et du deuil traversé avec dignité, et cette capacité commune à trouver la paix dans la profondeur plutôt que dans le bruit — une résonance rare et profonde.",
+      "top3": [
+        {
+          "match": {
+            "id": 8,
+            "nom": "Miriam",
+            "nom_famille": "Peretz",
+            "age": "62",
+            "sexe": "Féminin",
+            "telephone": "+972 52-675-4490",
+            "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 90,
+          "raison": "Miriam partage avec Yossi les mêmes racines mizrahi, la même foi ancrée, la même expérience de la perte et du deuil traversé avec dignité, et cette capacité commune à trouver la paix dans la profondeur plutôt que dans le bruit — une résonance rare et profonde.",
+          "mutual": true
+        },
+        {
+          "match": {
+            "id": 7,
+            "nom": "Fatima",
+            "nom_famille": "Hamdan",
+            "age": "39",
+            "sexe": "Féminin",
+            "telephone": "+972 50-934-1152",
+            "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 66,
+          "raison": "Fatima incarne la même solidité discrète et le même sens du devoir que Yossi, et son veuvage lui confère une maturité émotionnelle compatible avec lui, mais la distance culturelle et religieuse représente un obstacle structurel difficile à ignorer.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 10,
+            "nom": "Rivka",
+            "nom_famille": "Azoulay",
+            "age": "44",
+            "sexe": "Féminin",
+            "telephone": "+972 50-562-8847",
+            "resume_ia": "Elle s'appelle Noa, et dès qu'on la rencontre, on sent qu'il y a quelque chose de profond derrière son sourire. Pharmacienne accomplie, mère de quatre enfants, elle tient debout depuis le 7 octobre avec une énergie qu'elle ne s'explique plus vraiment elle-même. Son mari, réserviste, est souvent loin — trop loin, trop longtemps — et c'est elle qui fait tourner la maison, les devoirs, les repas du shabbat, les nuits sans sommeil. Elle est séfarade dans l'âme, attachée à ses traditions avec une chaleur sincère, celle qui sent le cumin et la brioche dorée du vendredi soir. Noa ne cherche pas quelqu'un de parfait. Elle cherche quelqu'un de vrai, un homme qui sait ce que ça veut dire d'être là — vraiment là — quand tout pèse. Quelqu'un qui n'a pas peur de la complexité d'une vie déjà bien remplie, et qui y verrait une richesse plutôt qu'un fardeau. Elle a beaucoup donné, beaucoup porté. Ce soir, elle s'autorise à chercher quelqu'un à qui elle pourrait, enfin, poser un peu du poids.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 51,
+          "raison": "Malgré la proximité culturelle séfarade et la chaleur sincère de Rivka, le profil révèle une femme encore mariée dont le mari est réserviste — une situation incompatible avec ce que Yossi cherche : une présence entière et disponible.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 90,
+      "raison": "Miriam partage avec Yossi les mêmes racines mizrahi, la même foi ancrée, la même expérience de la perte et du deuil traversé avec dignité, et cette capacité commune à trouver la paix dans la profondeur plutôt que dans le bruit — une résonance rare et profonde.",
+      "top3": [
+        {
+          "match": {
+            "id": 3,
+            "nom": "Eran",
+            "nom_famille": "Levi",
+            "age": "58",
+            "sexe": "Masculin",
+            "telephone": "+972 54-883-2205",
+            "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 90,
+          "raison": "Miriam partage avec Yossi les mêmes racines mizrahi, la même foi ancrée, la même expérience de la perte et du deuil traversé avec dignité, et cette capacité commune à trouver la paix dans la profondeur plutôt que dans le bruit — une résonance rare et profonde.",
+          "mutual": true
+        },
+        {
+          "match": {
+            "id": 5,
+            "nom": "Ron",
+            "nom_famille": "Ben-David",
+            "age": "47",
+            "sexe": "Masculin",
+            "telephone": "+972 50-458-9961",
+            "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 80,
+          "raison": "Miriam partage avec Ron la même profondeur séfarade-mizrahi, la foi, le foyer chaleureux du vendredi soir, une vie marquée par les épreuves portées avec dignité, et cette recherche d'un compagnon loyal et vrai plutôt que d'un idéal — une résonance humaine et culturelle rare.",
+          "mutual": true
+        },
+        {
+          "match": {
+            "id": 1,
+            "nom": "David",
+            "nom_famille": "Katz",
+            "age": "42",
+            "sexe": "Masculin",
+            "telephone": "+972 52-341-8823",
+            "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 28,
+          "raison": "Personnalité d'une richesse humaine rare, mais l'écart de génération de vingt ans, l'ancrage mizrahi pratiquant et un chapitre de vie centré sur les petits-enfants et le deuil national l'éloignent trop du quotidien que David cherche à construire.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "raison": "Ashkénaze, laïque, ancrée à Tel Aviv, cherchant une vraie vie commune avec profondeur et légèreté — un alignement fort sur les valeurs, le mode de vie et les aspirations, malgré l'écart d'âge et sa question ouverte sur la parentalité.",
+      "top3": [
+        {
+          "match": {
+            "id": 6,
+            "nom": "Shira",
+            "nom_famille": "Goldenberg",
+            "age": "34",
+            "sexe": "Féminin",
+            "telephone": "+972 54-227-6680",
+            "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 80,
+          "raison": "Ashkénaze, laïque, ancrée à Tel Aviv, cherchant une vraie vie commune avec profondeur et légèreté — un alignement fort sur les valeurs, le mode de vie et les aspirations, malgré l'écart d'âge et sa question ouverte sur la parentalité.",
+          "mutual": true
+        },
+        {
+          "match": {
+            "id": 9,
+            "nom": "Tali",
+            "nom_famille": "Zamir",
+            "age": "28",
+            "sexe": "Féminin",
+            "telephone": "+972 54-381-0073",
+            "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 65,
+          "raison": "Profil intellectuellement stimulant, valeurs compatibles et belle autonomie, mais 28 ans et un chapitre de vie encore très ouvert créent un décalage réel avec un homme de 42 ans déjà père et en quête de stabilité partagée.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 7,
+            "nom": "Fatima",
+            "nom_famille": "Hamdan",
+            "age": "39",
+            "sexe": "Féminin",
+            "telephone": "+972 50-934-1152",
+            "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 39,
+          "raison": "Femme de caractère et de valeurs profondes, mais la distance culturelle, religieuse et identitaire entre eux est substantielle, et le contexte géopolitique que David porte en lui rend cette rencontre structurellement complexe.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "raison": "Ashkénaze, laïque, ancrée à Tel Aviv, cherchant une vraie vie commune avec profondeur et légèreté — un alignement fort sur les valeurs, le mode de vie et les aspirations, malgré l'écart d'âge et sa question ouverte sur la parentalité.",
+      "top3": [
+        {
+          "match": {
+            "id": 1,
+            "nom": "David",
+            "nom_famille": "Katz",
+            "age": "42",
+            "sexe": "Masculin",
+            "telephone": "+972 52-341-8823",
+            "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 80,
+          "raison": "Ashkénaze, laïque, ancrée à Tel Aviv, cherchant une vraie vie commune avec profondeur et légèreté — un alignement fort sur les valeurs, le mode de vie et les aspirations, malgré l'écart d'âge et sa question ouverte sur la parentalité.",
+          "mutual": true
+        },
+        {
+          "match": {
+            "id": 5,
+            "nom": "Ron",
+            "nom_famille": "Ben-David",
+            "age": "47",
+            "sexe": "Masculin",
+            "telephone": "+972 50-458-9961",
+            "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 40,
+          "raison": "L'écart de treize ans, la quête active d'enfants de Maya et un univers ashkénaze-laïque très urbain créent trop de décalages avec les priorités et le monde de vie de Ron pour envisager une complicité durable.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 2,
+            "nom": "Youssef",
+            "nom_famille": "Mansour",
+            "age": "31",
+            "sexe": "Masculin",
+            "telephone": "+972 50-729-4417",
+            "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 36,
+          "raison": "Maya partage la profondeur de conversation et l'appétit pour une vraie vie commune que Youssef appelle de ses vœux, mais l'univers Tel Aviv-laïque-ashkénaze et la pression biologique qu'elle porte créent une distance de contexte difficile à combler rapidement.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "raison": "Miriam partage avec Ron la même profondeur séfarade-mizrahi, la foi, le foyer chaleureux du vendredi soir, une vie marquée par les épreuves portées avec dignité, et cette recherche d'un compagnon loyal et vrai plutôt que d'un idéal — une résonance humaine et culturelle rare.",
+      "top3": [
+        {
+          "match": {
+            "id": 8,
+            "nom": "Miriam",
+            "nom_famille": "Peretz",
+            "age": "62",
+            "sexe": "Féminin",
+            "telephone": "+972 52-675-4490",
+            "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 80,
+          "raison": "Miriam partage avec Ron la même profondeur séfarade-mizrahi, la foi, le foyer chaleureux du vendredi soir, une vie marquée par les épreuves portées avec dignité, et cette recherche d'un compagnon loyal et vrai plutôt que d'un idéal — une résonance humaine et culturelle rare.",
+          "mutual": true
+        },
+        {
+          "match": {
+            "id": 7,
+            "nom": "Fatima",
+            "nom_famille": "Hamdan",
+            "age": "39",
+            "sexe": "Féminin",
+            "telephone": "+972 50-934-1152",
+            "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 65,
+          "raison": "Fatima incarne une force tranquille et une vie déjà bien construite qui font écho à Ron, mais la distance culturelle et religieuse, ainsi que l'absence de proximité identitaire, rendraient la construction commune difficile malgré une belle compatibilité de valeurs.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 10,
+            "nom": "Rivka",
+            "nom_famille": "Azoulay",
+            "age": "44",
+            "sexe": "Féminin",
+            "telephone": "+972 50-562-8847",
+            "resume_ia": "Elle s'appelle Noa, et dès qu'on la rencontre, on sent qu'il y a quelque chose de profond derrière son sourire. Pharmacienne accomplie, mère de quatre enfants, elle tient debout depuis le 7 octobre avec une énergie qu'elle ne s'explique plus vraiment elle-même. Son mari, réserviste, est souvent loin — trop loin, trop longtemps — et c'est elle qui fait tourner la maison, les devoirs, les repas du shabbat, les nuits sans sommeil. Elle est séfarade dans l'âme, attachée à ses traditions avec une chaleur sincère, celle qui sent le cumin et la brioche dorée du vendredi soir. Noa ne cherche pas quelqu'un de parfait. Elle cherche quelqu'un de vrai, un homme qui sait ce que ça veut dire d'être là — vraiment là — quand tout pèse. Quelqu'un qui n'a pas peur de la complexité d'une vie déjà bien remplie, et qui y verrait une richesse plutôt qu'un fardeau. Elle a beaucoup donné, beaucoup porté. Ce soir, elle s'autorise à chercher quelqu'un à qui elle pourrait, enfin, poser un peu du poids.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 60,
+          "raison": "Rivka est mariée et son mari est encore présent dans sa vie, ce qui rend toute relation sérieuse avec Ron impossible à construire sur des bases saines, malgré des affinités séfarades et une sensibilité partagée.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 7,
+        "nom": "Fatima",
+        "nom_famille": "Hamdan",
+        "age": "39",
+        "sexe": "Féminin",
+        "telephone": "+972 50-934-1152",
+        "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 66,
+      "raison": "Fatima incarne la même solidité discrète et le même sens du devoir que Yossi, et son veuvage lui confère une maturité émotionnelle compatible avec lui, mais la distance culturelle et religieuse représente un obstacle structurel difficile à ignorer.",
+      "top3": [
+        {
+          "match": {
+            "id": 3,
+            "nom": "Eran",
+            "nom_famille": "Levi",
+            "age": "58",
+            "sexe": "Masculin",
+            "telephone": "+972 54-883-2205",
+            "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 66,
+          "raison": "Fatima incarne la même solidité discrète et le même sens du devoir que Yossi, et son veuvage lui confère une maturité émotionnelle compatible avec lui, mais la distance culturelle et religieuse représente un obstacle structurel difficile à ignorer.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 5,
+            "nom": "Ron",
+            "nom_famille": "Ben-David",
+            "age": "47",
+            "sexe": "Masculin",
+            "telephone": "+972 50-458-9961",
+            "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 65,
+          "raison": "Fatima incarne une force tranquille et une vie déjà bien construite qui font écho à Ron, mais la distance culturelle et religieuse, ainsi que l'absence de proximité identitaire, rendraient la construction commune difficile malgré une belle compatibilité de valeurs.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 2,
+            "nom": "Youssef",
+            "nom_famille": "Mansour",
+            "age": "31",
+            "sexe": "Masculin",
+            "telephone": "+972 50-729-4417",
+            "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 55,
+          "raison": "Arabe musulmane, mère et figure communautaire engagée, Fatima partage avec Youssef les mêmes racines culturelles, la même valorisation des liens familiaux profonds et la même conviction que s'engager vraiment a un sens — même si la différence religieuse et les enfants déjà présents appelleraient une conversation honnête.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 65,
+      "raison": "Profil intellectuellement stimulant, valeurs compatibles et belle autonomie, mais 28 ans et un chapitre de vie encore très ouvert créent un décalage réel avec un homme de 42 ans déjà père et en quête de stabilité partagée.",
+      "top3": [
+        {
+          "match": {
+            "id": 1,
+            "nom": "David",
+            "nom_famille": "Katz",
+            "age": "42",
+            "sexe": "Masculin",
+            "telephone": "+972 52-341-8823",
+            "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 65,
+          "raison": "Profil intellectuellement stimulant, valeurs compatibles et belle autonomie, mais 28 ans et un chapitre de vie encore très ouvert créent un décalage réel avec un homme de 42 ans déjà père et en quête de stabilité partagée.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 2,
+            "nom": "Youssef",
+            "nom_famille": "Mansour",
+            "age": "31",
+            "sexe": "Masculin",
+            "telephone": "+972 50-729-4417",
+            "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 56,
+          "raison": "Tali incarne exactement le type de rencontre que Youssef recherche — quelqu'un qui se tient debout, qui débat, qui avance — mais l'écart culturel et laïque pourrait buter sur ce que la famille de Youssef attend, et ce qu'il veut construire dans la durée.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 4,
+            "nom": "Nathaniel",
+            "nom_famille": "Friedman",
+            "age": "26",
+            "sexe": "Masculin",
+            "telephone": "+972 52-016-7734",
+            "resume_ia": "Ariel a grandi dans un monde où chaque question avait déjà sa réponse, mais lui n'a jamais tout à fait réussi à s'en contenter. Étudiant en yeshiva depuis des années, il porte sa kippa avec autant de fidélité que de questionnement intérieur, cherchant encore comment faire coexister la foi de ses pères et les doutes qui lui appartiennent en propre. En secret, il dessine des plans, résout des équations et rêve d'un avenir d'ingénieur, convaincu que construire des ponts, c'est aussi une façon de relier les mondes. Derrière sa timidité un peu maladroite se cache une intelligence vive et une sincérité qui désarme ceux qui prennent le temps de l'écouter vraiment. Il traverse en ce moment l'une des périodes les plus exigeantes de sa vie, celle où l'on doit décider qui l'on est vraiment, loin des attentes et des rôles assignés. Il cherche une femme qui n'a pas peur des silences pensifs ni des conversations qui durent jusqu'à l'aube, quelqu'un de patient, de chaleureux, capable d'accueillir un homme en chemin sans vouloir le presser d'arriver. Avec Ariel, on ne signe pas pour une vie simple, mais certainement pour une vie profonde.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 45,
+          "raison": "Tali, 28 ans, ashkénaze et ancrée dans ses convictions, partage avec Nathaniel une même énergie de construction personnelle et une ouverture aux grandes conversations sans pression d'arriver, ce qui correspond précisément à ce qu'il cherche — même si son côté laïque affirmé et son indépendance très installée pourraient buter sur ses questionnements religieux intérieurs.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 10,
+        "nom": "Rivka",
+        "nom_famille": "Azoulay",
+        "age": "44",
+        "sexe": "Féminin",
+        "telephone": "+972 50-562-8847",
+        "resume_ia": "Elle s'appelle Noa, et dès qu'on la rencontre, on sent qu'il y a quelque chose de profond derrière son sourire. Pharmacienne accomplie, mère de quatre enfants, elle tient debout depuis le 7 octobre avec une énergie qu'elle ne s'explique plus vraiment elle-même. Son mari, réserviste, est souvent loin — trop loin, trop longtemps — et c'est elle qui fait tourner la maison, les devoirs, les repas du shabbat, les nuits sans sommeil. Elle est séfarade dans l'âme, attachée à ses traditions avec une chaleur sincère, celle qui sent le cumin et la brioche dorée du vendredi soir. Noa ne cherche pas quelqu'un de parfait. Elle cherche quelqu'un de vrai, un homme qui sait ce que ça veut dire d'être là — vraiment là — quand tout pèse. Quelqu'un qui n'a pas peur de la complexité d'une vie déjà bien remplie, et qui y verrait une richesse plutôt qu'un fardeau. Elle a beaucoup donné, beaucoup porté. Ce soir, elle s'autorise à chercher quelqu'un à qui elle pourrait, enfin, poser un peu du poids.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 60,
+      "raison": "Rivka est mariée et son mari est encore présent dans sa vie, ce qui rend toute relation sérieuse avec Ron impossible à construire sur des bases saines, malgré des affinités séfarades et une sensibilité partagée.",
+      "top3": [
+        {
+          "match": {
+            "id": 5,
+            "nom": "Ron",
+            "nom_famille": "Ben-David",
+            "age": "47",
+            "sexe": "Masculin",
+            "telephone": "+972 50-458-9961",
+            "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 60,
+          "raison": "Rivka est mariée et son mari est encore présent dans sa vie, ce qui rend toute relation sérieuse avec Ron impossible à construire sur des bases saines, malgré des affinités séfarades et une sensibilité partagée.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 3,
+            "nom": "Eran",
+            "nom_famille": "Levi",
+            "age": "58",
+            "sexe": "Masculin",
+            "telephone": "+972 54-883-2205",
+            "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 51,
+          "raison": "Malgré la proximité culturelle séfarade et la chaleur sincère de Rivka, le profil révèle une femme encore mariée dont le mari est réserviste — une situation incompatible avec ce que Yossi cherche : une présence entière et disponible.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 1,
+            "nom": "David",
+            "nom_famille": "Katz",
+            "age": "42",
+            "sexe": "Masculin",
+            "telephone": "+972 52-341-8823",
+            "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 30,
+          "raison": "Le profil est celui d'une femme mariée gérant une crise familiale intense — indépendamment des incohérences de la fiche, cette situation ne correspond en rien à ce que David recherche.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 2,
+        "nom": "Youssef",
+        "nom_famille": "Mansour",
+        "age": "31",
+        "sexe": "Masculin",
+        "telephone": "+972 50-729-4417",
+        "resume_ia": "Samir grandit à Wadi Nisnas, ce quartier de Haïfa où les ruelles racontent des histoires qu'on ne trouve nulle part ailleurs. Développeur fullstack le jour, il passe ses nuits à construire des projets numériques avec la même patience qu'il met à gravir les sentiers du Carmel le week-end, sac sur le dos et tête dans les nuages. Arabe israélien et chrétien, il navigue depuis toujours entre deux mondes, deux langues, deux façons d'exister — et cette complexité, loin de le peser, l'a rendu curieux des autres, attentif aux nuances, allergique aux cases trop étroites. Il vit encore chez ses parents, et il n'en a pas honte : c'est là que sa mère cuisine des plats qui valent n'importe quel restaurant étoilé, et que les soirées en famille lui ont appris ce que valent vraiment les liens qu'on choisit de garder. Sa famille rêve de le voir marié, lui rêve surtout d'une vraie rencontre — quelqu'un avec qui débattre jusqu'à minuit, rire sans raison, et construire quelque chose d'honnête. Ce soir, Samir n'est pas là pour cocher des cases. Il est là parce qu'il croit encore que les bonnes conversations changent la vie.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 56,
+      "raison": "Tali incarne exactement le type de rencontre que Youssef recherche — quelqu'un qui se tient debout, qui débat, qui avance — mais l'écart culturel et laïque pourrait buter sur ce que la famille de Youssef attend, et ce qu'il veut construire dans la durée.",
+      "top3": [
+        {
+          "match": {
+            "id": 9,
+            "nom": "Tali",
+            "nom_famille": "Zamir",
+            "age": "28",
+            "sexe": "Féminin",
+            "telephone": "+972 54-381-0073",
+            "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 56,
+          "raison": "Tali incarne exactement le type de rencontre que Youssef recherche — quelqu'un qui se tient debout, qui débat, qui avance — mais l'écart culturel et laïque pourrait buter sur ce que la famille de Youssef attend, et ce qu'il veut construire dans la durée.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 7,
+            "nom": "Fatima",
+            "nom_famille": "Hamdan",
+            "age": "39",
+            "sexe": "Féminin",
+            "telephone": "+972 50-934-1152",
+            "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 55,
+          "raison": "Arabe musulmane, mère et figure communautaire engagée, Fatima partage avec Youssef les mêmes racines culturelles, la même valorisation des liens familiaux profonds et la même conviction que s'engager vraiment a un sens — même si la différence religieuse et les enfants déjà présents appelleraient une conversation honnête.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 6,
+            "nom": "Shira",
+            "nom_famille": "Goldenberg",
+            "age": "34",
+            "sexe": "Féminin",
+            "telephone": "+972 54-227-6680",
+            "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 36,
+          "raison": "Maya partage la profondeur de conversation et l'appétit pour une vraie vie commune que Youssef appelle de ses vœux, mais l'univers Tel Aviv-laïque-ashkénaze et la pression biologique qu'elle porte créent une distance de contexte difficile à combler rapidement.",
+          "mutual": false
+        }
+      ]
+    },
+    {
+      "personne": {
+        "id": 4,
+        "nom": "Nathaniel",
+        "nom_famille": "Friedman",
+        "age": "26",
+        "sexe": "Masculin",
+        "telephone": "+972 52-016-7734",
+        "resume_ia": "Ariel a grandi dans un monde où chaque question avait déjà sa réponse, mais lui n'a jamais tout à fait réussi à s'en contenter. Étudiant en yeshiva depuis des années, il porte sa kippa avec autant de fidélité que de questionnement intérieur, cherchant encore comment faire coexister la foi de ses pères et les doutes qui lui appartiennent en propre. En secret, il dessine des plans, résout des équations et rêve d'un avenir d'ingénieur, convaincu que construire des ponts, c'est aussi une façon de relier les mondes. Derrière sa timidité un peu maladroite se cache une intelligence vive et une sincérité qui désarme ceux qui prennent le temps de l'écouter vraiment. Il traverse en ce moment l'une des périodes les plus exigeantes de sa vie, celle où l'on doit décider qui l'on est vraiment, loin des attentes et des rôles assignés. Il cherche une femme qui n'a pas peur des silences pensifs ni des conversations qui durent jusqu'à l'aube, quelqu'un de patient, de chaleureux, capable d'accueillir un homme en chemin sans vouloir le presser d'arriver. Avec Ariel, on ne signe pas pour une vie simple, mais certainement pour une vie profonde.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "meilleur_match": {
+        "id": 9,
+        "nom": "Tali",
+        "nom_famille": "Zamir",
+        "age": "28",
+        "sexe": "Féminin",
+        "telephone": "+972 54-381-0073",
+        "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 45,
+      "raison": "Tali, 28 ans, ashkénaze et ancrée dans ses convictions, partage avec Nathaniel une même énergie de construction personnelle et une ouverture aux grandes conversations sans pression d'arriver, ce qui correspond précisément à ce qu'il cherche — même si son côté laïque affirmé et son indépendance très installée pourraient buter sur ses questionnements religieux intérieurs.",
+      "top3": [
+        {
+          "match": {
+            "id": 9,
+            "nom": "Tali",
+            "nom_famille": "Zamir",
+            "age": "28",
+            "sexe": "Féminin",
+            "telephone": "+972 54-381-0073",
+            "resume_ia": "Elle a la tête bien faite et le cœur bien placé. À 26 ans, elle a signé seule les papiers de son studio à Tel Aviv — pas par fierté, mais parce que c'est simplement qui elle est : quelqu'un qui avance sans attendre que les choses arrivent. En semaine, elle jongle avec les chiffres et les marchés financiers avec une rigueur qui force le respect. Le samedi, on la retrouve dans la rue, pancarte à la main, parce que certaines choses valent la peine qu'on se batte pour elles.\n\nAshkénaze, laïque, elle porte son identité avec légèreté et curiosité. Célibataire depuis un moment — et franchement, pas malheureuse de l'avoir été — elle arrive ce soir non pas par désespoir, mais par ouverture. Elle n'a pas besoin d'être sauvée, ni complétée. Elle cherche juste quelqu'un qui se tient debout par lui-même, qui a ses propres convictions, sa propre vie.\n\nPas de pression dans ce qu'elle propose. Juste une vraie conversation, peut-être un sourire qui dure un peu plus longtemps que prévu, et on verra bien où ça mène.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 45,
+          "raison": "Tali, 28 ans, ashkénaze et ancrée dans ses convictions, partage avec Nathaniel une même énergie de construction personnelle et une ouverture aux grandes conversations sans pression d'arriver, ce qui correspond précisément à ce qu'il cherche — même si son côté laïque affirmé et son indépendance très installée pourraient buter sur ses questionnements religieux intérieurs.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 6,
+            "nom": "Shira",
+            "nom_famille": "Goldenberg",
+            "age": "34",
+            "sexe": "Féminin",
+            "telephone": "+972 54-227-6680",
+            "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 32,
+          "raison": "Maya/Shira, directrice artistique éprise de profondeur et de vraie vie commune, offre la chaleur et la maturité qu'il apprécie, mais ses 34 ans, son urgence biologique assumée et son attente d'un homme 'ancré' risquent de peser lourd face à un jeune homme encore en plein questionnement identitaire.",
+          "mutual": false
+        },
+        {
+          "match": {
+            "id": 7,
+            "nom": "Fatima",
+            "nom_famille": "Hamdan",
+            "age": "39",
+            "sexe": "Féminin",
+            "telephone": "+972 50-934-1152",
+            "resume_ia": "Fatima dirige une école dans sa communauté avec une autorité douce et une conviction profonde — celle que l'éducation peut tout changer. Veuve depuis trois ans, elle a traversé l'épreuve avec une dignité qui force le respect, et a choisi de se relever non pas malgré ses fils, mais pour eux. Elle est mère de deux garçons qu'elle élève avec amour et exigence, leur transmettant les mêmes valeurs qu'elle défend au quotidien. Car Fatima est aussi une voix dans sa ville : elle milite activement contre la violence, inlassablement, parce qu'elle croit en une vie meilleure pour les siens. Elle porte en elle une force rare, celle qui ne cherche pas à impressionner mais qui touche naturellement ceux qui l'approchent. Ce soir, elle est là avec sincérité, sans masque, avec l'envie simple de rencontrer quelqu'un de solide et de vrai. Un homme qui comprend ce que signifie s'engager, respecter, construire. Quelqu'un auprès de qui elle pourrait enfin poser un peu du poids qu'elle porte avec tant de grâce.",
+            "timestamp": "2026-06-14 12:00:00"
+          },
+          "score": 23,
+          "raison": "Fatima est d'une solidité humaine remarquable, mais la distance culturelle et religieuse avec un étudiant en yeshiva, combinée à la réalité d'une famille déjà constituée et d'un engagement communautaire très fort, rend une compatibilité de fond peu probable malgré une sincérité partagée.",
+          "mutual": false
+        }
+      ]
+    }
+  ],
+  "mutual_matches": [
+    {
+      "profil_a": {
+        "id": 3,
+        "nom": "Eran",
+        "nom_famille": "Levi",
+        "age": "58",
+        "sexe": "Masculin",
+        "telephone": "+972 54-883-2205",
+        "resume_ia": "Yossi a passé trente ans à veiller sur les autres — d'abord dans les couloirs bruyants des urgences, puis au chevet de sa femme, avec la même constance silencieuse. Médecin urgentiste depuis plus de deux décennies, cet homme mizrahi ancré dans ses racines porte en lui une profondeur que les mots n'épuisent pas facilement. Il parle peu, mais quand il le fait, ça compte. Sa façon d'être au monde est celle d'un homme qui a appris à mesurer chaque geste, chaque parole. Le soir, quand la maison se pose enfin, il trouve son calme dans la cuisine — un filet de poisson sur le feu, quelques herbes, et quelque chose qui ressemble à une prière. Yossi est épuisé, il ne s'en cache pas, mais cet épuisement dit aussi qui il est : quelqu'un qui ne lâche pas, qui tient. Ce soir, il ne cherche pas à séduire, il cherche à rencontrer. Une femme au sol stable, au regard doux, capable d'exister près de lui sans bruit inutile. Quelqu'un avec qui le silence serait une forme de compagnie, et la présence, un vrai cadeau.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 90,
+      "score_h": 88,
+      "score_f": 92,
+      "raison": "Miriam partage avec Yossi les mêmes racines mizrahi, la même foi ancrée, la même expérience de la perte et du deuil traversé avec dignité, et cette capacité commune à trouver la paix dans la profondeur plutôt que dans le bruit — une résonance rare et profonde.",
+      "mutual": true
+    },
+    {
+      "profil_a": {
+        "id": 1,
+        "nom": "David",
+        "nom_famille": "Katz",
+        "age": "42",
+        "sexe": "Masculin",
+        "telephone": "+972 52-341-8823",
+        "resume_ia": "Il exerce depuis plus de quinze ans comme avocat d'affaires, avec la rigueur et la passion de quelqu'un qui a choisi ce métier par vocation autant que par ambition. Père de deux adolescents qu'il accueille en garde partagée, il jongle avec enthousiasme entre les dossiers complexes et les dîners en semaine, sans jamais perdre le sens de l'humour qui lui est cher. Ashkénaze et laïque assumé, il a posé ses valises à Florentin, ce quartier qui lui ressemble : vivant, imparfait, authentique. Comme beaucoup ici, il porte le contexte géopolitique sur les épaules et laisse parfois son regard dériver vers Lisbonne, sans pour autant lâcher les amarres de cette ville qui est, malgré tout, profondément la sienne. Le vendredi soir, on le trouve avec un verre de vin décent, une playlist jazz soigneusement choisie, ou les pieds dans le sable quelque part entre Tel Aviv et Herzliya. Il ne cherche pas une aventure légère ni une histoire compliquée, mais une femme posée, libre dans sa tête, capable d'apprécier un silence autant qu'une bonne conversation. Quelqu'un avec qui partager la vraie vie, celle qui mêle les doutes, les rires et les week-ends au bord de la mer.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 6,
+        "nom": "Shira",
+        "nom_famille": "Goldenberg",
+        "age": "34",
+        "sexe": "Féminin",
+        "telephone": "+972 54-227-6680",
+        "resume_ia": "Elle s'appelle Maya, directrice artistique au regard vif et à l'humour discret, de ceux qui font sourire sans prévenir. Ashkénaze et laïque, elle a grandi dans un monde de formes, de couleurs et de détails qui comptent — et ça se voit dans la façon dont elle habite chaque espace. Elle vit à Rothschild, ce boulevard qui pulse comme un cœur au centre de Tel Aviv, et elle est en train de construire quelque chose de nouveau : un appartement rien qu'à elle, un chapitre qui commence. Après cinq ans dans une relation sincère mais qui bute sur l'essentiel — lui ne veut pas d'enfants, elle ne renonce pas à ce rêve — elle a choisi la lucidité plutôt que l'attente. Avec sérénité et une vraie maturité, elle explore la congélation d'ovocytes, parce qu'elle refuse de laisser le temps décider à sa place. Ce soir, Maya n'est pas là par hasard. Elle cherche un homme ancré, avec qui les grandes conversations vont naturellement, quelqu'un qui n'a pas peur de vouloir une vraie vie commune. Elle a beaucoup à offrir — de la profondeur, de la légèreté, et cette rare capacité à rendre les choses belles.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "score_h": 82,
+      "score_f": 78,
+      "raison": "Ashkénaze, laïque, ancrée à Tel Aviv, cherchant une vraie vie commune avec profondeur et légèreté — un alignement fort sur les valeurs, le mode de vie et les aspirations, malgré l'écart d'âge et sa question ouverte sur la parentalité.",
+      "mutual": true
+    },
+    {
+      "profil_a": {
+        "id": 5,
+        "nom": "Ron",
+        "nom_famille": "Ben-David",
+        "age": "47",
+        "sexe": "Masculin",
+        "telephone": "+972 50-458-9961",
+        "resume_ia": "Moïse, la cinquantaine bien portée, est un homme qui sent bon la mer et les épices — patron d'un restaurant de poissons séfarade qu'il a bâti avec ses mains et beaucoup d'amour. Il accueille ses clients comme une famille, toujours le mot pour rire, toujours une assiette de plus à offrir. La vie ne l'a pas ménagé : un premier mariage derrière lui, une belle-fille avec qui le courant ne passe pas toujours, et quelques tempêtes financières qu'il traverse en silence, sans trop en faire étalage. Il porte tout ça avec une dignité tranquille, sans se plaindre, parce que c'est comme ça qu'il a appris à avancer. Ce soir, il est là sans masque, avec ses rides et sa générosité intacte, cherchant une femme qui n'a pas peur des vraies choses — les joies bruyantes autour d'une table, mais aussi les jours moins simples. Il rêve d'une complice, solide et douce, capable de rire avec lui le vendredi soir et de tenir debout les autres jours. Quelqu'un à qui il pourrait enfin tout dire, sans retenir.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "profil_b": {
+        "id": 8,
+        "nom": "Miriam",
+        "nom_famille": "Peretz",
+        "age": "62",
+        "sexe": "Féminin",
+        "telephone": "+972 52-675-4490",
+        "resume_ia": "Elle a traversé ce que peu d'êtres humains peuvent imaginer, et pourtant elle se tient là, debout, lumineuse, avec cette chaleur dans les yeux qui ne s'explique pas — elle se ressent. Mère de deux fils tombés pour leur pays, elle a choisi, contre toute attente, de transformer sa douleur en présence pour les autres : depuis des années, elle accompagne bénévolement des familles de soldats tombés, portant leur deuil avec une douceur et une force qui forcent l'admiration. Sa foi mizrahi est le fil conducteur de sa vie, une ancre profonde qui lui donne ce regard apaisé sur le monde, même dans les tempêtes. Autour d'elle gravitent ses petits-enfants, qu'elle enveloppe d'un amour généreux et vivant — sa maison sent bon le vendredi soir, les prières chantées et les rires mélangés. Elle n'a rien perdu de sa vitalité, ni de son sens de l'humour discret, ni de sa capacité à écouter vraiment. Ce soir, elle ne cherche ni à impressionner ni à séduire à tout prix : elle cherche simplement quelqu'un de doux, de loyal, avec qui partager encore de beaux chapitres. Quelqu'un qui comprend que la vraie profondeur d'une personne se lit dans ce qu'elle a su garder intact malgré tout.",
+        "timestamp": "2026-06-14 12:00:00"
+      },
+      "score": 80,
+      "score_h": 82,
+      "score_f": 78,
+      "raison": "Miriam partage avec Ron la même profondeur séfarade-mizrahi, la foi, le foyer chaleureux du vendredi soir, une vie marquée par les épreuves portées avec dignité, et cette recherche d'un compagnon loyal et vrai plutôt que d'un idéal — une résonance humaine et culturelle rare.",
+      "mutual": true
+    }
+  ],
+  "total_profils": 10,
+  "stats": {
+    "hommes": 5,
+    "femmes": 5,
+    "mutuals": 3
+  }
+}

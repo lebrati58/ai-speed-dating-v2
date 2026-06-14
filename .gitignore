@@ -1,5 +1,5 @@
 credentials.json
-data/
+data/responses.json
 *.env
 .env
 __pycache__/
