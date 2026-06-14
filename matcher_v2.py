@@ -25,6 +25,9 @@ PROFIL DE {person['nom'].upper()} {person['nom_famille'].upper()}, {person['age'
 {person['resume_ia']}
 
 Classe ces {len(candidates)} candidats du plus au moins compatible.
+
+Règle importante : la compatibilité religieuse et culturelle est un facteur primordial. Si les profils indiquent des niveaux de pratique ou des valeurs religieuses/culturelles incompatibles (ex: très religieux vs laïque, modes de vie fondamentalement différents), réduis le score de manière significative (-20 à -40 points). À l'inverse, une compatibilité religieuse et culturelle forte booste le score.
+
 Réponds UNIQUEMENT en JSON :
 {{"classement": [{{"id": <id>, "score": <0-100>, "raison": "<une phrase>"}}]}}
 Tous les IDs doivent apparaître exactement une fois.
