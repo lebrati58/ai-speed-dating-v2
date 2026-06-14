@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Speed Dating</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,400&family=Inter:wght@300;400;500&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#080810;color:#F8F4EC;font-family:'Inter',sans-serif;font-weight:300;padding:40px 20px}
+h1{font-family:'Playfair Display',serif;font-size:28px;font-weight:400;color:#D4AF37;margin-bottom:6px}
+.sub{font-size:12px;color:#7A7A8E;margin-bottom:30px}
+.run-btn{background:linear-gradient(135deg,#D4AF37,#F5D76E);border:none;border-radius:8px;color:#0D0D14;font-size:13px;font-weight:500;letter-spacing:2px;text-transform:uppercase;padding:14px 28px;cursor:pointer;margin-bottom:30px}
+.run-btn:disabled{opacity:0.5}
+.msg{margin-top:10px;font-size:12px;color:#4ECDC4}
+table{width:100%;border-collapse:collapse;font-size:12px}
+th{text-align:left;padding:10px 12px;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#7A7A8E;border-bottom:1px solid rgba(255,255,255,0.07)}
+td{padding:10px 12px;border-bottom:1px solid rgba(255,255,255,0.04);vertical-align:top}
+.del-btn{background:rgba(255,107,107,0.1);border:1px solid rgba(255,107,107,0.2);border-radius:4px;color:#FF6B6B;font-size:10px;padding:4px 8px;cursor:pointer}
+.links{margin-top:20px;display:flex;gap:16px}
+.links a{color:#D4AF37;font-size:11px;text-decoration:none;letter-spacing:1px}
+</style>
+</head>
+<body>
+<h1>⚙ Admin · Speed Dating</h1>
+<p class="sub">{{ responses|length }} profil(s) enregistré(s)</p>
+
+<button class="run-btn" id="runBtn" onclick="runMatching()">🤖 Lancer le matching</button>
+<div class="msg" id="msg"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th><th>Nom</th><th>Âge</th><th>Sexe</th><th>Tel</th><th>Résumé</th><th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for r in responses %}
+    <tr>
+      <td>{{ r.id }}</td>
+      <td>{{ r.nom }} {{ r.nom_famille }}</td>
+      <td>{{ r.age }}</td>
+      <td>{{ r.sexe }}</td>
+      <td>{{ r.telephone }}</td>
+      <td style="max-width:300px;color:#8A8A9A">{{ r.resume_ia[:80] }}…</td>
+      <td>
+        <form method="post" action="/admin/delete/{{ r.id }}" onsubmit="return confirm('Supprimer ?')">
+          <button class="del-btn">✕</button>
+        </form>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<div class="links">
+  <a href="/">← Formulaire</a>
+  <a href="/results">Résultats</a>
+</div>
+
+<script>
+async function runMatching() {
+  const btn = document.getElementById('runBtn');
+  const msg = document.getElementById('msg');
+  btn.disabled = true;
+  btn.textContent = '⏳ Matching en cours…';
+  msg.textContent = '';
+  const res = await fetch('/admin/run-matching', {method:'POST'});
+  const data = await res.json();
+  msg.textContent = data.message + ' Résultats disponibles dans 2-3 min.';
+  setTimeout(() => { btn.disabled=false; btn.textContent='🤖 Lancer le matching'; }, 5000);
+}
+</script>
+</body>
+</html>

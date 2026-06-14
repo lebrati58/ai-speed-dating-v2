@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Soirée Célibataires · Tel Aviv</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--or:#D4AF37;--or2:#F5D76E;--rose:#FF6B9D;--nuit:#080810;--card:#12121F;--gris:#7A7A8E;--blanc:#F8F4EC}
+body{background:var(--nuit);color:var(--blanc);font-family:'Inter',sans-serif;font-weight:300;min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:40px 16px 60px}
+
+header{text-align:center;margin-bottom:40px}
+.eyebrow{font-size:10px;letter-spacing:5px;text-transform:uppercase;color:var(--or);margin-bottom:12px}
+h1{font-family:'Playfair Display',serif;font-size:clamp(32px,5vw,52px);font-weight:400;line-height:1.1}
+h1 em{font-style:italic;color:var(--or)}
+.subtitle{margin-top:10px;font-size:12px;color:var(--gris);letter-spacing:1px}
+.counter{margin-top:14px;display:inline-flex;align-items:center;gap:8px;background:rgba(212,175,55,0.08);border:1px solid rgba(212,175,55,0.2);border-radius:20px;padding:6px 14px;font-size:11px;color:var(--or)}
+.counter span{font-family:'Playfair Display',serif;font-size:20px}
+
+.form-card{width:100%;max-width:540px;background:var(--card);border:1px solid rgba(212,175,55,0.12);border-radius:12px;padding:36px;display:flex;flex-direction:column;gap:22px}
+
+.field{display:flex;flex-direction:column;gap:8px}
+.field label{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--or)}
+.field input,.field textarea,.field select{background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);border-radius:6px;color:var(--blanc);font-family:'Inter',sans-serif;font-size:14px;font-weight:300;padding:12px 14px;outline:none;transition:border-color 0.2s;width:100%}
+.field input:focus,.field textarea:focus{border-color:rgba(212,175,55,0.5)}
+.field textarea{resize:vertical;min-height:140px;line-height:1.6}
+.field-row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+
+/* Sexe radio */
+.sexe-wrap{display:flex;gap:12px}
+.sexe-btn{flex:1;padding:12px;border:1px solid rgba(255,255,255,0.1);border-radius:6px;cursor:pointer;text-align:center;font-size:13px;color:var(--gris);transition:all 0.2s;background:rgba(255,255,255,0.03)}
+.sexe-btn.active{border-color:var(--or);color:var(--or);background:rgba(212,175,55,0.08)}
+input[type=radio]{display:none}
+
+/* Prompt box */
+.prompt-section{background:rgba(0,0,0,0.3);border:1px solid rgba(212,175,55,0.18);border-left:3px solid var(--or);border-radius:6px;padding:18px}
+.prompt-section h3{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--or);margin-bottom:10px}
+.prompt-text{font-size:12px;color:rgba(248,244,236,0.6);font-style:italic;line-height:1.7;margin-bottom:14px}
+.copy-btn{display:flex;align-items:center;gap:8px;background:rgba(212,175,55,0.12);border:1px solid rgba(212,175,55,0.3);border-radius:6px;color:var(--or);font-size:11px;letter-spacing:2px;text-transform:uppercase;padding:9px 14px;cursor:pointer;transition:all 0.2s;width:100%;justify-content:center}
+.copy-btn:hover{background:rgba(212,175,55,0.2)}
+.copy-btn.copied{background:rgba(78,205,196,0.15);border-color:rgba(78,205,196,0.4);color:#4ECDC4}
+
+.submit-btn{background:linear-gradient(135deg,var(--or),var(--or2));border:none;border-radius:8px;color:#0D0D14;font-family:'Inter',sans-serif;font-size:13px;font-weight:500;letter-spacing:2px;text-transform:uppercase;padding:16px;cursor:pointer;transition:opacity 0.2s;width:100%}
+.submit-btn:hover{opacity:0.9}
+.submit-btn:disabled{opacity:0.5;cursor:not-allowed}
+
+.error-msg{color:#FF6B9D;font-size:12px;text-align:center;display:none}
+.field-hint{font-size:11px;color:rgba(255,255,255,0.3);line-height:1.5}
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Soirée Célibataires · Tel Aviv</p>
+  <h1>Crée ton <em>profil</em></h1>
+  <p class="subtitle">Powered by AI · Ce soir uniquement</p>
+  {% if count > 0 %}
+  <div class="counter"><span>{{ count }}</span> participant{{ 's' if count > 1 else '' }} inscrit{{ 's' if count > 1 else '' }}</div>
+  {% endif %}
+</header>
+
+<form class="form-card" id="mainForm">
+
+  <div class="field-row">
+    <div class="field">
+      <label>Prénom</label>
+      <input type="text" id="nom" placeholder="Sophie" required>
+    </div>
+    <div class="field">
+      <label>Nom</label>
+      <input type="text" id="nom_famille" placeholder="Katz" required>
+    </div>
+  </div>
+
+  <div class="field-row">
+    <div class="field">
+      <label>Âge</label>
+      <input type="number" id="age" placeholder="28" min="18" max="99" required>
+    </div>
+    <div class="field">
+      <label>WhatsApp</label>
+      <input type="tel" id="telephone" placeholder="+972 50 000 0000">
+    </div>
+  </div>
+
+  <div class="field">
+    <label>Sexe</label>
+    <div class="sexe-wrap">
+      <div class="sexe-btn" onclick="selectSexe('Masculin',this)">♂ Masculin</div>
+      <div class="sexe-btn" onclick="selectSexe('Féminin',this)">♀ Féminin</div>
+    </div>
+    <input type="hidden" id="sexe" required>
+  </div>
+
+  <div class="prompt-section">
+    <h3>✦ Étape clé — ton profil IA</h3>
+    <p class="prompt-text">"En te basant sur nos conversations, décris-moi en 8 à 10 lignes pour un profil de rencontre. Inclus mes valeurs, ce que je recherche chez un partenaire, mon style de vie, et ce qui me rend unique. Sois honnête, précis. Écris à la troisième personne."</p>
+    <button type="button" class="copy-btn" id="copyBtn" onclick="copyPrompt()">
+      <span>📋</span> Copier le prompt
+    </button>
+    <p class="field-hint" style="margin-top:10px">Colle ça dans ChatGPT, Claude ou Gemini sur ton téléphone, puis colle la réponse ci-dessous.</p>
+  </div>
+
+  <div class="field">
+    <label>Résumé IA</label>
+    <textarea id="resume_ia" placeholder="Colle ici le texte généré par l'IA…&#10;&#10;Pas d'IA ? Décris-toi en 8 lignes : qui tu es, tes valeurs, ce que tu recherches, ce qui te rend unique." required></textarea>
+  </div>
+
+  <div class="error-msg" id="errorMsg"></div>
+
+  <button type="submit" class="submit-btn" id="submitBtn">✦ Envoyer mon profil</button>
+
+</form>
+
+<script>
+const PROMPT = `En te basant sur nos conversations, décris-moi en 8 à 10 lignes pour un profil de rencontre. Inclus mes valeurs principales, ce que je recherche chez un partenaire, mon style de vie et mes passions, ma façon d'être en relation, et ce qui me rend unique. Sois honnête, précis et personnel. Écris à la troisième personne.`;
+
+let selectedSexe = '';
+
+function selectSexe(val, el) {
+  selectedSexe = val;
+  document.getElementById('sexe').value = val;
+  document.querySelectorAll('.sexe-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+}
+
+function copyPrompt() {
+  navigator.clipboard.writeText(PROMPT).then(() => {
+    const btn = document.getElementById('copyBtn');
+    btn.innerHTML = '<span>✓</span> Copié !';
+    btn.classList.add('copied');
+    setTimeout(() => {
+      btn.innerHTML = '<span>📋</span> Copier le prompt';
+      btn.classList.remove('copied');
+    }, 2500);
+  });
+}
+
+document.getElementById('mainForm').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const btn = document.getElementById('submitBtn');
+  const err = document.getElementById('errorMsg');
+
+  const nom      = document.getElementById('nom').value.trim();
+  const nomF     = document.getElementById('nom_famille').value.trim();
+  const age      = document.getElementById('age').value.trim();
+  const sexe     = document.getElementById('sexe').value;
+  const tel      = document.getElementById('telephone').value.trim();
+  const resume   = document.getElementById('resume_ia').value.trim();
+
+  if (!nom || !nomF || !age || !sexe || !resume) {
+    err.textContent = 'Merci de remplir tous les champs obligatoires.';
+    err.style.display = 'block';
+    return;
+  }
+  if (resume.length < 50) {
+    err.textContent = 'Le résumé IA est trop court (minimum 50 caractères).';
+    err.style.display = 'block';
+    return;
+  }
+
+  btn.disabled = true;
+  btn.textContent = 'Envoi en cours…';
+  err.style.display = 'none';
+
+  try {
+    const res = await fetch('/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ nom, nom_famille: nomF, age, sexe, telephone: tel, resume_ia: resume })
+    });
+    const data = await res.json();
+    if (data.ok) {
+      window.location.href = '/merci?total=' + data.total;
+    } else {
+      err.textContent = data.error || 'Erreur lors de l\'envoi.';
+      err.style.display = 'block';
+      btn.disabled = false;
+      btn.textContent = '✦ Envoyer mon profil';
+    }
+  } catch(e) {
+    err.textContent = 'Erreur réseau. Réessaie.';
+    err.style.display = 'block';
+    btn.disabled = false;
+    btn.textContent = '✦ Envoyer mon profil';
+  }
+});
+</script>
+</body>
+</html>
